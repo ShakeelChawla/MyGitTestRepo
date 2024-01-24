@@ -5,3 +5,4 @@ Conflict Created and Now we have changed it in Conflict Branch.
 Its another conflict to check in VS CODE.
 This is in the main branch.
 Hello This is my Change direct in repo.
+Second Change in Remote Repo.
